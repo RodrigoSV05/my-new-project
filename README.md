@@ -4,7 +4,7 @@ Final project for the Building AI course
 
 ## Summary
 
-Applying AI to cost modeling enables companies to predict project costs more accurately, optimize decision-making, and detect risks early by learning from historical data, driving operational efficiency and competitiveness.
+The application of Artificial Intelligence (AI) techniques to cost modeling aims to optimize the accuracy and efficiency of cost estimation by using predictive models trained on the company's historical data. This would enable the anticipation of deviations, the optimization of budgets, and the improvement of strategic decision-making in future projects.
 
 ## Background
 
